@@ -26,17 +26,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmontenegro3&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="gabrielmontenegro3 stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmontenegro3&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="gabrielmontenegro3 stats"/>
-</div>
-
-<br><br>
-
-
-
 
   
   

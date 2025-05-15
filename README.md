@@ -1,13 +1,11 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Gabriel Montenegro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmontenegro3&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estudante de desenvolvimento back-end, graduado em analise e desenvolvimento de sistemas.
+- 🔥 Desenvolvedor full-stack, graduado em analise e desenvolvimento de sistemas.
 
 - 🌱 Atualmente estudando Java.
 
-- 💬 Pergunte-me sobre **Java, Springboot, HTML, CSS, SQL, POO**
-
-- 🔭 Estou disponível para trabalho.
+- 💬 Pergunte-me sobre **Typescript, Java, Springboot, HTML, CSS, SQL, POO**
 
 - 📬 Para entrar em contato comigo, por favor, envie um email para `montenegrogabriel351@gmail.com` ou me chama no [Linkedin](https://www.linkedin.com/in/gabrielmontenegro3/)
 

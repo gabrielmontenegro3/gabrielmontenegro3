@@ -35,25 +35,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Mídias sociais
-<div align="left">
-  <a href="https://linkedin.com/in/gabrielmontenegro3" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-gabrielmontenegro3-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/gabmntenegro" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-gabrielmontenegro3-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-   <a href="mailto:montenegrogabriel351@gmail.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-gabrielmontenegro3-05122A?style=flat&logo=gmail" alt="gmail"/>
-  </a>
-</div>
-  
-<div align="left">
-  
-  ![snake animation](https://github.com/gabrielmontenegro3/gabrielmontenegro3/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
+
 
 
   
